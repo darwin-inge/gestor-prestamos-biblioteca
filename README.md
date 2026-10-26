@@ -18,16 +18,9 @@ python gestor_prestamos.py
 ```
 
 ## Ejemplo de uso
-```
-========================================
-     GESTOR DE PRÉSTAMOS - BIBLIOTECA
-========================================
-1. Registrar nuevo préstamo
-2. Ver libros prestados actualmente
-3. Devolver un libro
-4. Salir
-========================================
-```
+<img width="1368" height="506" alt="menubibliotca" src="https://github.com/user-attachments/assets/83fdcde8-7adb-4172-b688-4573d216191f" />
+
+
 
 ## Conceptos practicados
 Listas, diccionarios, funciones, bucles, condicionales y manejo de entradas.
